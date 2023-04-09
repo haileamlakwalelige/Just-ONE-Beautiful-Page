@@ -1,0 +1,1 @@
+# Just-ONE-Beautiful-Page is an exquisitely designed webpage that boasts of stunning visuals. The code base is primarily composed of HTML and CSS, complemented by a concise 6-line JavaScript code for the navigation bar.
